@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to financial fields. An example would be that a commodities trader might want to be able to predict the future volatility of natural gas by investigating many features like weather forecasts, satellite data, and geopolitical shocks. The predicted volatility from the model would inform the pricing of commodity options, allowing traders to spot good trading opportunities. 
